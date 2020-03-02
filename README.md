@@ -12,7 +12,10 @@ Face_mask is a fast mask detection classifier that utilizes pytorch
 Try and start with
 
 ```
+1. use pip 
 pip install facemask
+2. clone the code
+git clone https://github.com/chenjun2hao/facemask
 ```
 
 -------------
